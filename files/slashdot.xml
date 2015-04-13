@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-13T01:51:10+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/12/2239250/study-ancient-mosasaurs-gave-birth-in-open-sea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/12/225226/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/12/2032204/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/12/2028244/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/04/12/2043200/hillary-clinton-declares-2016-democratic-presidential-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/12/1826250/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/04/12/1815234/lgs-leather-clad-g4-revealed-in-leaked-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/12/1531257/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/12/1518238/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/12/1343230/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/12/1238212/nist-solicits-comments-on-electronic-authentication-guideline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/12/1214237/california-looks-to-the-sea-for-a-drink-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/12/1211234/copenhagen-suborbitals-test-rocket-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/12/037220/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/12/0251253/google-battles-for-better-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/04/12/2239250/study-ancient-mosasaurs-gave-birth-in-open-sea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Study: Ancient Mosasaurs Gave Birth In Open Sea</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9tbNhYLTQIM/study-ancient-mosasaurs-gave-birth-in-open-sea</link>
+<description>An anonymous reader writes A new study published in the journal Palaeontology finds that Mosasaurs, the large marine lizards that once populated the waters about 65 million years ago, gave birth to live young in the open ocean. "Mosasaurs are among the best-studied groups of Mesozoic vertebrate animals, but evidence regarding how they were born and what baby mosasaur ecology was like has historically been elusive," said Daniel Field, lead author of a study published online April 10 in the journal Palaeontology. Field is a doctoral candidate in the lab of Jacques Gauthier in Yale's Department of Geology and Geophysics."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Study%3A+Ancient+Mosasaurs+Gave+Birth+In+Open+Sea%3A+http%3A%2F%2Fbit.ly%2F1Czjr3t"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F12%2F2239250%2Fstudy-ancient-mosasaurs-gave-birth-in-open-sea%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/12/2239250/study-ancient-mosasaurs-gave-birth-in-open-sea?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/12/2239250/study-ancient-mosasaurs-gave-birth-in-open-sea?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9tbNhYLTQIM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-13T00:38:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>we're-going-to-need-a-bigger-doula</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>7</slash:comments>
+<slash:hit_parade>7,7,5,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/12/2239250/study-ancient-mosasaurs-gave-birth-in-open-sea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/12/225226/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: Best Medium For Storing Data To Survive a Fire (or Other Disaster)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/QOFTXBI1w3E/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster</link>
+<description>First time accepted submitter aka_bigred writes Every year as I file my taxes, I replicate my most important financial data (a couple GB of data) to store an offline copy in my fire-rated home safe. This gets me thinking about what the most reliable data media would be to keep in my fire-rated home safe. CDs/DVDs/tapes could easily melt or warp rendering them useless, so I'm very hesitant to use them. I've seen more exotic solutions that let you print your digital data to paper an optically re-import it later should you ever need it, but it seems overly cumbersome and error prone should it be damaged or fire scorched. That leaves my best options being either a classic magnetic platter drive, or some sort of solid state storage, like SD cards, USB flash drives, or a small SSD. The problem is, I can't decide which would survive better if ever exposed to extreme temperatures, or water damage should my house burn down. Most people would just suggest to store it in "the cloud", but I'm naturally averse to doing so because that means someone else is responsible for my data and I could loose it to hackers, the entity going out of business, etc. Once it leaves my home, I no longer fully control it, which is unacceptable. My thought being "they can't hack/steal what they can't physically access." What medium do other Slashdot users use to store their most important data (under say 5GB worth) in an at-home safe to protect it from fire?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+Best+Medium+For+Storing+Data+To+Survive+a+Fire+(or+Other+Disaster)%3A+http%3A%2F%2Fbit.ly%2F1aVWEYV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F12%2F225226%2Fask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/12/225226/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/12/225226/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246779&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/QOFTXBI1w3E" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T23:32:00+00:00</dc:date>
+<dc:subject>storage</dc:subject>
+<slash:department>burning-down-the-house</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,116,80,64,12,7,3</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/12/225226/ask-slashdot-best-medium-for-storing-data-to-survive-a-fire-or-other-disaster?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/12/2032204/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>European Space Agency Invited To Contribute a Lander To NASA's Europa Clipper</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4h-qCjbG8pE/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper</link>
+<description>MarkWhittington writes According to a story in Spaceflight Now, NASA has invited the European Space Agency to participate in its upcoming Europa Clipper project. Europa Clipper, pushed by Rep. John Culberson, the chair of the House Appropriations subcommittee that oversees NASA, recently received backing from the Obama administration. Europa Clipper would launch in the early 2020s and would be placed in an orbit around Jupiter that would cause it to fly by Europa, a moon of Jupiter, at least 45 times during its operational life.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=European+Space+Agency+Invited+To+Contribute+a+Lander+To+NASA's+Europa+Clipper%3A+http%3A%2F%2Fbit.ly%2F1aHleMl"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F12%2F2032204%2Feuropean-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/12/2032204/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/12/2032204/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246569&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4h-qCjbG8pE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T22:29:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>joining-the-party</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>15</slash:comments>
+<slash:hit_parade>15,15,5,3,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/12/2032204/european-space-agency-invited-to-contribute-a-lander-to-nasas-europa-clipper?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/12/2028244/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft and Miele Team Collaborate To Cook Up an IoT Revolution</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2ET38sPi5ag/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution</link>
+<description>Mark Wilson writes When people talk about the Internet of Things, there are often semi-joking references to fridges that know when you've run out of milk and ovens that know how to cook whatever you put in them. Forget the jokes; this is now a reality. We've already seen a generation of smart appliances, and Microsoft wants to be part of what happens next. At Hannover Messe today, Miele &amp;mdash; of oven, vacuum cleaner and washing machine fame &amp;mdash; announces it is working on a new breed of appliances based on Microsoft Azure Internet of Things (IoT) services What does this mean? Ultimately it means you'll be able to find a recipe online, have the ingredient list and preparation instructions sent to your mobile device, and your smart oven will be automatically configured with the correct settings.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+and+Miele+Team+Collaborate+To+Cook+Up+an+IoT+Revolution%3A+http%3A%2F%2Fbit.ly%2F1FNbbAk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F12%2F2028244%2Fmicrosoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/12/2028244/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/12/2028244/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246559&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2ET38sPi5ag" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T21:20:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>bake-me-a-cake</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,50,27,21,8,5,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/12/2028244/microsoft-and-miele-team-collaborate-to-cook-up-an-iot-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/04/12/2043200/hillary-clinton-declares-2016-democratic-presidential-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hillary Clinton Declares 2016 Democratic Presidential Bid</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_3vZ-dXqw0g/hillary-clinton-declares-2016-democratic-presidential-bid</link>
+<description>An anonymous reader writes In a move that surprised no one, Hillary Clinton has officially announced she is entering the 2016 race for the White House. According to the Times: "Ending two years of speculation and coy denials, Hillary Rodham Clinton announced on Sunday that she would seek the presidency for a second time, immediately establishing herself as the likely 2016 Democratic nominee. 'I'm running for president,' she said with a smile near the end of a two-minute video released just after 3 p.m. 'Everyday Americans need a champion. And I want to be that champion,' Mrs. Clinton said. 'So I'm hitting the road to earn your vote &amp;mdash; because it's your time. And I hope you'll join me on this journey.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hillary+Clinton+Declares+2016+Democratic+Presidential+Bid%3A+http%3A%2F%2Fbit.ly%2F1PBdqMO"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F04%2F12%2F2043200%2Fhillary-clinton-declares-2016-democratic-presidential-bid%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/04/12/2043200/hillary-clinton-declares-2016-democratic-presidential-bid?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/04/12/2043200/hillary-clinton-declares-2016-democratic-presidential-bid?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246597&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_3vZ-dXqw0g" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T20:50:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>throwing-her-hat-in-the-ring</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>271</slash:comments>
+<slash:hit_parade>271,269,179,150,36,18,4</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/04/12/2043200/hillary-clinton-declares-2016-democratic-presidential-bid?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/12/1826250/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The NSA Wants Tech Companies To Give It "Front Door" Access To Encrypted Data</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VrMzWZeIf1Y/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data</link>
+<description>An anonymous reader writes The National Security Agency is embroiled in a battle with tech companies over access to encrypted data that would allow it to spy (more easily) on millions of Americans and international citizens. Last month, companies like Google, Microsoft, and Apple urged the Obama administration to put an end to the NSA's bulk collection of metadata. "National Security Agency officials are considering a range of options to ensure their surveillance efforts aren't stymied by the growing use of encryption, particularly in smartphones. Key among the solutions, according to The Washington Post, might be a requirement that technology companies create a digital key that can open any locked device to obtain text messages or other content, but divide the key into pieces so no one group could use it without the cooperation of other parties."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+NSA+Wants+Tech+Companies+To+Give+It+%22Front+Door%22+Access+To+Encrypted+Data%3A+http%3A%2F%2Fbit.ly%2F1aH3dOu"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F12%2F1826250%2Fthe-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/12/1826250/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/12/1826250/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246261&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VrMzWZeIf1Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T20:12:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>let-us-in</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>119</slash:comments>
+<slash:hit_parade>119,116,73,59,16,8,6</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/12/1826250/the-nsa-wants-tech-companies-to-give-it-front-door-access-to-encrypted-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/04/12/1815234/lgs-leather-clad-g4-revealed-in-leaked-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>LG's Leather-Clad G4 Revealed In Leaked Images</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hV-xVIMRUQA/lgs-leather-clad-g4-revealed-in-leaked-images</link>
+<description>An anonymous reader writes Evan Blass, known on Twitter as @evleaks, released images of LG's G4 smartphone which was supposed to be unveiled April 28th. "The images reveal what appear to be a multitude of swappable back plates. There are at least six different real leather backs (ranging from black and brown to baby blue and yellow), as well as three more traditional plastic backs. It's fair to assume that the leather versions will carry a cost premium. The LG Quick Circle case, which has a window to let you view notifications while the cover is closed, also appears to be making a return with the G4."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=LG's+Leather-Clad+G4+Revealed+In+Leaked+Images%3A+http%3A%2F%2Fbit.ly%2F1z8FZqg"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F04%2F12%2F1815234%2Flgs-leather-clad-g4-revealed-in-leaked-images%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/04/12/1815234/lgs-leather-clad-g4-revealed-in-leaked-images?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/04/12/1815234/lgs-leather-clad-g4-revealed-in-leaked-images?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7246231&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hV-xVIMRUQA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T19:03:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>take-a-peek</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,27,19,17,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/04/12/1815234/lgs-leather-clad-g4-revealed-in-leaked-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/12/1531257/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Mystery "Warm Blob" In the Pacific Ocean Could Be Causing California's Drought</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-51aQvpNN5Q/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought</link>
+<description>Mr D from 63 writes A mysterious "warm blob" in the Pacific Ocean could be the reason why US West coast states like California are experiencing their worst ever drought, a new study says. From the article: "Nick Bond, a climate scientist at the Joint Institute for the Study of the Atmosphere and Ocean at the University of Washington, began watching the blob a year and a half ago. 'In the fall of 2013 and early 2014, we started to notice a big, almost circular mass of water that just didn't cool off as much as it usually did, so by spring of 2014 it was warmer than we had ever seen it for that time of year,' Bond said in a news release about the studies appearing in Geophysical Research Letters."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Mystery+%22Warm+Blob%22+In+the+Pacific+Ocean+Could+Be+Causing+California's+Drought%3A+http%3A%2F%2Fbit.ly%2F1DVNVCI"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F12%2F1531257%2Fmystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/12/1531257/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/12/1531257/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245865&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-51aQvpNN5Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T17:52:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>it's-getting-hot-in-here</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>106</slash:comments>
+<slash:hit_parade>106,102,68,51,16,10,2</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/12/1531257/mystery-warm-blob-in-the-pacific-ocean-could-be-causing-californias-drought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/12/1518238/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Watch DARPA Artificial Intelligence Search For Crime On the "Dark Web"</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/s9dkJAtEAhY/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web</link>
+<description>An anonymous reader shares this bit of news from DARPA. "Of late, DARPA has shown a growing interest in open sourcing its technology, even if its most terrifying creations, like army robot wildcats designed to reach speeds of 50Mph, are understandably kept private. In a week&amp;rsquo;s time, the wider world will be able to tinker with components of the military research body&amp;rsquo;s in-development search tool for the dark web. The Memex technology, named after an mechanical mnemonic dreamt up just as the Second World War was coming to a close, has already been put to use by a number of law enforcement agencies, who are looking to counter crime taking place on networks like Tor, where Hidden Services are protected by the privacy-enhancing, encrypted hosting, often for good, often for bad. In its first year, the focus at Memex has been on tracking human trafficking, but the project's scope stretches considerably wider."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Watch+DARPA+Artificial+Intelligence+Search+For+Crime+On+the+%22Dark+Web%22%3A+http%3A%2F%2Fbit.ly%2F1IEwA2a"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F12%2F1518238%2Fwatch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/12/1518238/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/12/1518238/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/s9dkJAtEAhY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T16:50:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>seek-it-out</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,25,13,8,3,1,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/12/1518238/watch-darpa-artificial-intelligence-search-for-crime-on-the-dark-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/12/1343230/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>French Intelligence Bill: 5 Web Hosting Providers Threaten To Leave the Country</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GZKaoIpk4LY/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country</link>
+<description>albert555 (3986073) writes Five popular French web hosting providers, including Gandi and OVH, said on Thursday that the new French intelligence bill might push them to leave the country (French) in order not to lose their customers. The five companies are protesting against the "real-time capture of data connection" and their analysis by the intelligence services using "+black boxes+ with blurred lines". The web hosting providers believe that this project "will not reach its goal and will potentially put every French citizen under surveillance, that will result in the destruction of a major segment of the economy of our country," by pushing their customers to turn to other less intrusive territories. If the bill is passed as it is, "we have to move our infrastructure, our investments and our employees where our customers want to work with us". The companies have provided a listing of dozen cities where they "will suppress jobs instead of creating new ones."; "These are thousands of jobs (...) that startups and large companies will also create elsewhere," they add. The press release was addressed to the French Prime Minister, Manuel Valls, and was co-signed by Gandu, OVH, IDS, Ikoula and Lomaco.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=French+Intelligence+Bill%3A+5+Web+Hosting+Providers+Threaten+To+Leave+the+Country%3A+http%3A%2F%2Fbit.ly%2F1IWbY2h"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F12%2F1343230%2Ffrench-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/12/1343230/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/12/1343230/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245537&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GZKaoIpk4LY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T15:49:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>we're-out-of-here</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>80</slash:comments>
+<slash:hit_parade>80,78,57,41,15,8,5</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/12/1343230/french-intelligence-bill-5-web-hosting-providers-threaten-to-leave-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/12/1238212/nist-solicits-comments-on-electronic-authentication-guideline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NIST Solicits Comments On Electronic Authentication Guideline</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V42LGf5j8N4/nist-solicits-comments-on-electronic-authentication-guideline</link>
+<description>First time accepted submitter Jim Fenton writes The National Institute of Standards and Technology (NIST) is poised to make what is expected to be a major revision of Special Publication 800-63-2, Electronic Authentication Guideline. While normative only for the Federal Government, it is widely referenced elsewhere and specifies requirements to meet each of four Levels of Assurance (LOA). Should this structure change? Are there changes in technology or threats that should be considered in the revision? NIST would like to hear from you.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NIST+Solicits+Comments+On+Electronic+Authentication+Guideline%3A+http%3A%2F%2Fbit.ly%2F1cngsou"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F12%2F1238212%2Fnist-solicits-comments-on-electronic-authentication-guideline%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/12/1238212/nist-solicits-comments-on-electronic-authentication-guideline?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/12/1238212/nist-solicits-comments-on-electronic-authentication-guideline?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245387&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V42LGf5j8N4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T14:51:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>what-do-you-think</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,4,2,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/12/1238212/nist-solicits-comments-on-electronic-authentication-guideline?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/12/1214237/california-looks-to-the-sea-for-a-drink-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>California Looks To the Sea For a Drink of Water</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KqbNkj_-5jc/california-looks-to-the-sea-for-a-drink-of-water</link>
+<description>HughPickens.com writes Justin Gillis writes in the NYT that as drought strikes California, residents can't help noticing the substantial reservoir of untapped water lapping at their shores &amp;mdash; 187 quintillion gallons of it, more or less, shimmering invitingly in the sun. Once dismissed as too expensive and harmful to the environment desalination is getting a second look. A $1 billion desalination plant to supply booming San Diego County is under construction and due to open as early as November, providing a major test of whether California cities will be able to resort to the ocean to solve their water woes. "It was not an easy decision to build this plant," says Mark Weston, chairman of the agency that supplies water to towns in San Diego County. "But it is turning out to be a spectacular choice. What we thought was on the expensive side 10 years ago is now affordable." 
+
+Carlsbad's product will sell for around $2,000 per acre-foot (the amount used by two five-person U.S. households per year), which is 80 percent more than the county pays for treated water from outside the area. Water bills already average about $75 a month and the new plant will drive them up by $5 or so to secure a new supply equal to about 7 or 8 percent of the county's water consumption. Critics say the plant will use a huge amount of electricity, increasing the carbon dioxide emissions that cause global warming, which further strains water supplies. And local environmental groups, which fought the plant, fear a substantial impact on sea life. "There is just a lot more that can be done on both the conservation side and the water-recycling side before you get to [desalination]," says Rick Wilson, coastal management coordinator with the environmental group Surfrider Foundation. "We feel, in a lot of cases, that we haven't really explored all of those options."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=California+Looks+To+the+Sea+For+a+Drink+of+Water%3A+http%3A%2F%2Fbit.ly%2F1O4rlHo"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F12%2F1214237%2Fcalifornia-looks-to-the-sea-for-a-drink-of-water%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/12/1214237/california-looks-to-the-sea-for-a-drink-of-water?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/12/1214237/california-looks-to-the-sea-for-a-drink-of-water?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245343&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KqbNkj_-5jc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T13:47:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>taking-the-salt-out</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>255</slash:comments>
+<slash:hit_parade>255,246,183,163,51,33,24</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/12/1214237/california-looks-to-the-sea-for-a-drink-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/12/1211234/copenhagen-suborbitals-test-rocket-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Copenhagen Suborbitals Test Rocket Engine</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/L5w4_b-qAKs/copenhagen-suborbitals-test-rocket-engine</link>
+<description>An anonymous reader writes Copenhagen Suborbitals, the amateur manned space program, is conducting a rocket engine test today. The event is being streamed Live in HD on YouTube. The rocket engine is named BPM 2 and is a prequel to a planned series of test of the BPM 5 rocket engine currently being built. The purpose of the BPM 2 test is primarily to test a newly constructed mobile test stand and to test various fuel additives before the BPM 5 test series are to begin later in the first half of 2015.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Copenhagen+Suborbitals+Test+Rocket+Engine%3A+http%3A%2F%2Fbit.ly%2F1NumOTE"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F12%2F1211234%2Fcopenhagen-suborbitals-test-rocket-engine%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/12/1211234/copenhagen-suborbitals-test-rocket-engine?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/12/1211234/copenhagen-suborbitals-test-rocket-engine?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7245333&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/L5w4_b-qAKs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-12T12:45:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>to-infinty-and-beyond</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>9</slash:comments>
+<slash:hit_parade>9,8,4,2,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/12/1211234/copenhagen-suborbitals-test-rocket-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/12/037220/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Supernovae May Not Be Standard Candles; Is Dark Energy All Wrong?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GFadOoYFUm4/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong</link>
+<description>StartsWithABang writes: The accelerated expansion of the Universe &amp;mdash; and hence, dark energy &amp;mdash; was discovered by taking the well-understood phenomenon of type Ia supernovae and measuring them out to great distances. The results indicated that they were fainter than expected, and hence more distant, and hence the Universe's expansion must be accelerating. But new results have just come out, showing that supernovae may not be standard after all. Does this mean dark energy may not be real, or that it may just be slightly weaker than we previously thought?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Supernovae+May+Not+Be+Standard+Candles%3B+Is+Dark+Energy+All+Wrong%3F%3A+http%3A%2F%2Fbit.ly%2F1I4Gqa9"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F12%2F037220%2Fsupernovae-may-not-be-standard-candles-is-dark-energy-all-wrong%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/12/037220/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/12/037220/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7244469&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GFadOoYFUm4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-12T12:25:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>either-that-or-it-isn't</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>150</slash:comments>
+<slash:hit_parade>150,148,89,69,19,11,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/12/037220/supernovae-may-not-be-standard-candles-is-dark-energy-all-wrong?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/12/0251253/google-battles-for-better-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Battles For Better Batteries</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uGLeADs_Z78/google-battles-for-better-batteries</link>
+<description>An anonymous reader writes: The Wall Street Journal reports that Google's X research lab has joined the quest for better batteries. The company has at least 20 projects that depend on batteries, from Google Glass to self-driving cars and drones. Thus, it makes sense for them to try developing new battery technology. "At Google, Dr. Bhardwaj's group is trying to advance current lithium-ion technology and the cutting-edge solid-state batteries for consumer devices. ... In a February presentation to an industry conference, Dr. Bhardwaj described how solid-state, thin-film batteries could be used in smartphones and other mobile devices that are thinner, bendable, wearable and even implantable in the human body. ... For the contact lens, the technology is safer because it doesn't use flammable electrolyte liquid, Dr. Bhardwaj's presentation explained."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Battles+For+Better+Batteries%3A+http%3A%2F%2Fbit.ly%2F1D8R5j3"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F12%2F0251253%2Fgoogle-battles-for-better-batteries%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/12/0251253/google-battles-for-better-batteries?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/12/0251253/google-battles-for-better-batteries?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7244453&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uGLeADs_Z78" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-12T09:20:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>using-drones-to-hunt-energizer-bunnies</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,36,28,21,5,3,3</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/12/0251253/google-battles-for-better-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
